@@ -7,6 +7,8 @@ I am a B.Tech pursuing student with a passion for data analysis. Throughout my a
 Projects
 Here are some of the projects included in this portfolio:
 
+Email Classification
+Loan Default Prediction
 MedHive
 Hyundai Car's features
 Black Friday Sale
@@ -17,12 +19,13 @@ Movie Correlation with Python
 
 
 
-Technical Skills
-Programming Languages: Python, SQL.
-Data Analysis Tools: Pandas, NumPy, Scikit-learn.
-Data Visualization: Matplotlib, Seaborn.
-Machine Learning: Regression, Classification, Clustering.
-Database Management: SQL, MSSQL.
+Technical Skills:
+- Programming Languages: Python, SQL
+- Data Analysis Tools: Pandas, NumPy, Scikit-learn
+- Data Visualization: Matplotlib, Seaborn, Tableau
+- Machine Learning: Regression, Classification, Clustering, Ensemble Models [Scikit-learn, TensorFlow]
+- Database Management: SQL, MSSQL
+- Web Application Development: Streamlit
 
 How to Use
 To explore my portfolio projects, just visit the below link:
