@@ -7,15 +7,15 @@ I am a B.Tech student with a passion for data analysis. Throughout my academic j
 ## Projects
 Here are some of the projects included in this portfolio:
 
-Email Classification
-Credit Risk Prediction
-MedHive
-Hyundai Car's Features
-Black Friday Sale
-IPL Auctions
-Spotify Features
-COVID-19 Data Exploration
-Movie Correlation with Python
+1. Email Classification
+2. Credit Risk Prediction
+3. MedHive
+4. Hyundai Car's Features
+5. Black Friday Sale
+6. IPL Auctions
+7. Spotify Features
+8. COVID-19 Data Exploration
+9. Movie Correlation with Python
 
 
 ## Technical Skills
